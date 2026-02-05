@@ -9,10 +9,12 @@
   --spacingLarge: 16px;
 }
 
+
+
 /* -- GLOBAL -- */
 * {
   margin: 0;
-
+/* fjernet marging med å bruke universal selektor (*) som fjerner all mellomrom på siden av nettsiden */
 }
 
 img {
